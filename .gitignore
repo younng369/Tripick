@@ -89,6 +89,8 @@ config.properties
 # Log file
 *.log
 
+Servers/
+
 # BlueJ files
 *.ctxt
 
