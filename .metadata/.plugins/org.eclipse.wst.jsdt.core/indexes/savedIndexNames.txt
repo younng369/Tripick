@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Tripick_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3664813365.index
+2844426392.index
+347564461.index
+1291951095.index
+3509830710.index

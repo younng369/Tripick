@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Tripick\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1679982018.index
+\Tripick\src\main\java
+C:\Tripick\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2241238276.index
+\Tripick\src\main\java
